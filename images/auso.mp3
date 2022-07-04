@@ -1,0 +1,264 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>Site Maintenance | Cambridge Dictionary</title>
+    <meta charset="utf-8">
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta name="description" content="The most popular dictionary and thesaurus for learners of English. Meanings and definitions of words with pronunciations and translations." />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1">
+    <meta name="robots" content="noindex">
+    <style>
+        *{-moz-box-sizing:border-box;-webkit-box-sizing:border-box;box-sizing:border-box;-webkit-font-smoothing:antialiased}
+        footer,header,nav{display:block}
+        .q250{transition:all 250ms linear}
+        body{margin:0;padding:0;font-size:16px;color:#1d2a57;font-family:Arial,Helvetica,sans-serif}
+        .h2,.h3,.h4,.h5,.h6,h1,h2,h3,h4,h5,h6{margin:0 0 15px;line-height:1;font-weight:400;font-size:1rem}
+        .h1,h1{font-size:1.875rem}
+        p{line-height:1.3;margin:10px 0}
+        a{cursor:pointer}
+        ul{margin:0 0 20px 15px;padding:0;line-height:1.5em}
+        li{margin:0 0 10px}
+        li ul{margin-top:10px;margin-left:20px;list-style-type:circle}
+        img{vertical-align:bottom;max-width:100%;height:auto}
+        .fon{outline:0}
+        .fs{line-height:1}
+        .fs12{font-size:.75rem}
+        .fs13{font-size:.8125rem}
+        .fs14{font-size:.875rem}
+        .fs16{font-size:1rem}
+        .fs18{font-size:1.125rem}
+        .tb{font-weight:700}
+        .s,.sb:before{display:inline-block;background:url(https://dictionary.cambridge.org/external/images/cdo-sprite.png?version=5.0.45) 0 0 no-repeat}
+        .sb{position:relative}
+        .sb:before{content:" ";position:absolute;top:0;left:0}
+        .s-logo-footer{background-position:-290px -8px;width:207px;height:44px}
+        .sb-promo-widget::before{min-height:53px;background-position:-100px 0;width:67px;height:53px}
+        .sb-promo-apps::before{min-height:54px;background-position:-207px 0;width:52px;height:54px}
+        .cc{padding-top:46px}
+        .cpb{padding-left:80px}
+        .hdn{display:none}
+        .hdb{display:block}
+        .hdib{display:inline-block}
+        .hfl{float:left}
+        .hcb{clear:both}
+        .hvt{vertical-align:top}
+        .hoh{overflow:hidden}
+        .ha,.han a{text-decoration:none}
+        .hax,.hax a,.hax a:hover,.hax:hover{text-decoration:none}
+        .hul-u,.hul-un li ul{margin-left:0;padding:0;list-style:none}
+        .hul-u li{margin:0 0 5px;list-style:none}
+        .hul-un li ul{margin-top:0}
+        .hul-u0 li{margin:0}
+        .htc{text-align:center}
+        .pf{position:fixed}
+        .pr{position:relative}
+        .bh,.bh a,.bs,.bs a{color:#fff}
+        .bh{background:#1d2a57}
+        .tcu{text-transform:uppercase}
+        .tc-d,.tc-d a{color:#292929}
+        .tc-w,.tc-w a{color:#fff}
+        .lcs::before,div.x::before{content:" ";display:table}
+        .lcs::after,div.x::after{content:" ";display:table;clear:both}
+        .lmax{max-width:1280px;margin-left:auto;margin-right:auto}
+        .lc{float:left}
+        .lc1{width:100%}
+        .lp-15{padding:15px}
+        .lpt-1{padding-top:1px}
+        .lpt-2{padding-top:2px}
+        .lpb-2{padding-bottom:2px}
+        .lpt-5{padding-top:5px}
+        .lpb-5{padding-bottom:5px}
+        .lpt-10{padding-top:10px}
+        .lpl-10{padding-left:10px}
+        .lpb-10{padding-bottom:10px}
+        .lpr-10{padding-right:10px}
+        .lpt-15{padding-top:15px}
+        .lpl-15{padding-left:15px}
+        .lpb-15{padding-bottom:15px}
+        .lpr-15{padding-right:15px}
+        .lpt-20{padding-top:20px}
+        .lpl-20{padding-left:20px}
+        .lpb-20{padding-bottom:20px}
+        .lpr-20{padding-right:20px}
+        .lpb-25{padding-bottom:25px}
+        .lmb-0{margin-bottom:0}
+        .lmt-5{margin-top:5px}
+        .lmt-10{margin-top:10px}
+        .lml-10{margin-left:10px}
+        .lmr-25{margin-right:25px}
+        .lbt{border-top:solid 1px #e5e4e9}
+        .lbb{border-bottom:solid 1px #e5e4e9}
+        .z1{z-index:1}
+        .cf{z-index:970}
+        .ch{z-index:985}
+        .lb-ch{border-color:#4a5478}
+        @media screen and (min-width:600px){.cfn{margin-right:235px}.hdn-xs{display:none}.hdb-xs{display:block}.hfr-xs{float:right}.lc-xsa{width:auto}.lp-xs_t-10{padding-top:10px}}
+        @media screen and (min-width:763px){.lminh-300{min-height:300px}.cc{padding-top:102px}.cfn{margin-right:0;width:calc(100% - 210px)}.cfnl{max-width:33.3333%}.cfd{max-width:210px}.fs18-s{font-size:1.125rem}.hdn-s{display:none}.hdb-s{display:block}.hfl-s{float:left}.hfr-s{float:right}.hcl-s{clear:left}.lc-s6-12{width:50%}.lp-s_25{padding:25px}.lp-s_t-15{padding-top:15px}.lp-s_t-25{padding-top:25px}.lp-s_l-0{padding-left:0}.lp-s_l-20{padding-left:20px}.lp-s_b-25{padding-bottom:25px}.lp-s_r-20{padding-right:20px}.lbr-s{border-right:solid 1px #e5e4e9}.lbb0-s{border-bottom-width:0}}
+        @media screen and (min-width:980px){.lminh-500{min-height:500px}.fs19-m{font-size:1.1875rem}.lp-m_l-20{padding-left:20px}.lp-m_r-20{padding-right:20px}}
+        @media screen and (min-width:1080px){.lp-l_l-25{padding-left:25px}.lp-l_r-25{padding-right:25px}}
+    </style>
+    <link rel="shortcut icon" type="image/x-icon" href="https://dictionary.cambridge.org/external/images/favicon.ico">
+</head>
+
+<body>
+
+    <header id="header" class="pf ch q250 lc1">
+        <div class="pr bh lcs z1" role="button" tabindex="0">
+            <div class="hoh">
+                <div class="hfl hdib hvt hao lpt-10 lpb-2 lpr-15 lpl-15 lp-l_l-25 lbr-s lb-ch hdib">
+                    <a class="hdib lpb-5 lpt-1" href="https://dictionary.cambridge.org/" title="Cambridge Dictionary">
+                        <img src="https://dictionary.cambridge.org/external/images/logo-lrg.png?version=5.0.45" height="30" width="95" class="lpb-5" alt="Cambridge Dictionary" />
+                    </a>
+                </div>
+                <nav id="main-nav" class="chn hoh hdn hdb-s fs14">
+                    <ul class="hul-u hul-u0 hax hvt tb lmb-0 lml-10">
+                        <li class="hdib"><a href="https://dictionary.cambridge.org/dictionary/" class="hdb lpt-10 lpb-10 lmr-25  vh-a "><span class="hdib lpt-2">Dictionary</span></a></li>
+                        <li class="hdib"><a href="https://dictionary.cambridge.org/translate/" class="hdb hao lpt-10 lpb-10 lmr-25 "><span class="hdib lpt-2">Translate</span></a></li>
+                        <li class="hdib"><a href="https://dictionary.cambridge.org/grammar/british-grammar/" class="hdb hao lpt-10 lpb-10 lmr-25 "><span class="hdib lpt-2">Grammar</span></a></li>
+                        <li class="hdib"><a href="https://dictionary.cambridge.org/plus/" class="hdb hao lpt-10 lpb-10 "><span class="hdib lpt-2">Cambridge Dictionary Plus</span></a></li>
+                    </ul>
+                </nav>
+            </div>
+        </div>
+    </header>
+
+    <div class="cc fon lminh-300 lminh-500" role="main" aria-label="Close header popups" tabindex="0">
+        <div class="pr">
+            <div class="x lpl-10 lpr-10 lpt-10 lpb-25 lmax lp-m_l-20 lp-m_r-20">
+                <div class="lp-m_l-20">
+                    <div class="x lmt-10">
+                        <h1 class="h1 fs lpb-10 lbb">Site Maintenance</h1>
+                        <div>
+                            <p class="fs16 fs18-s fs19-m">Our site is down for maintenance but we'll be back online very soon.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="lbt cdo-promo">
+        <div class="lmax">
+            <div class="hax tc-d lcs lp-s_t-25 lp-s_b-25">
+                <div class="hao lc lc1 lbb lpt-15 lpb-15 lpl-20 lpr-20 lc-s6-12 lbb0-s lbr-s">
+                    <div class="sb sb-promo-widget">
+                        <a class="hdib tc-hh cpb" href="https://dictionary.cambridge.org/freesearch.html"
+                            title="Get our free widgets">
+                            <div class="fs18 tc-hhi">Get our free widgets</div>
+                            <div class="fs13 lmt-5">Add the power of Cambridge Dictionary to your website using our free
+                                search box widgets.</div>
+                        </a>
+                    </div>
+                </div>
+
+                <div class="hao lc lc1 lpt-15 lpb-15 lpl-20 lpr-20 lc-s6-12">
+                    <div class="sb sb-promo-apps">
+                        <a class="hdib cpb" href="http://www.cambridgemobileapps.com/" rel="external"
+                            title="Dictionary apps">
+                            <div class="fs18">Dictionary apps</div>
+                            <div class="fs13 lmt-5">Browse our dictionary apps today and ensure you are never again lost
+                                for words.</div>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <footer id="footer" class="pr bh han cf lp-s_25 lp-s_t-15">
+        <div class="lcs lp-l_l-25 lp-l_r-25 lmax">
+            <div class="lpt-10 lpb-20 lpr-10 hdn hdb-xs hdn-s hfr-xs">
+                <div class="hcb htc hfr-s hcl-s fs12 lpb-20 lpt-20 lp-xs_t-10 lp-s_t-15">
+                    <a class="hdib s s-logo-footer" href="http://www.cambridge.org/" title="Cambridge University Press"
+                        rel="external"></a>
+                    <p>© Cambridge University Press 2019</p>
+                </div>
+            </div>
+
+            <div class="cfn hfl-s lc1 lc-xsa">
+                <nav>
+                    <ul class="hul-u hul-un hul-u0 lmb-0 lcs">
+                        <li class="cfnl hfl-s lp-s_r-20 lbb lb-ch lbb0-s">
+                            <div class="tc-w fs18 hax hdn-s">
+                                <a class="pr hdb fs12 tcu lp-15 lpt-5 lpb-5">
+                                    Learn
+                                </a>
+                            </div>
+                            <div class="lpl-15 lp-s_l-0">
+                                <ul class="fs14">
+                                    <li class="hdn hdb-s tc-w lpb-5"><a href="https://dictionary.cambridge.org/learn.html"
+                                            class="fs12 tcu">Learn</a></li>
+                                    <li class="hdn-s"><a href="https://dictionary.cambridge.org/learn.html">Learn</a></li>
+                                    <li><a href="https://dictionaryblog.cambridge.org/category/new-words/">New Words</a>
+                                    </li>
+                                    <li><a href="https://dictionary.cambridge.org/help/">Help</a></li>
+                                    <li><a href="http://www.cambridge.org/gb/cambridgeenglish/catalog/dictionaries"
+                                            target="_blank" rel="noopener">In Print</a></li>
+                                </ul>
+                            </div>
+                        </li>
+                        <li class="cfnl hfl-s lp-s_r-20 lp-s_l-20 lbb lb-ch lbb0-s">
+                            <div class="tc-w fs18 hax hdn-s">
+                                <a class="pr hdb fs12 tcu lp-15 lpt-5 lpb-5">
+                                    Develop
+                                </a>
+                            </div>
+                            <div class="lpl-15 lp-s_l-0">
+                                <ul class="fs14">
+                                    <li class="hdn hdb-s tc-w lpb-5"><a href="https://dictionary.cambridge.org/develop.html"
+                                            class="fs12 tcu">Develop</a></li>
+                                    <li class="hdn-s"><a href="https://dictionary.cambridge.org/develop.html">Develop</a>
+                                    </li>
+                                    <li><a href="http://dictionary-api.cambridge.org/" target="_blank"
+                                            rel="noopener">Dictionary API</a></li>
+                                    <li><a href="https://dictionary.cambridge.org/doubleclick.html">Double-Click Lookup</a>
+                                    </li>
+                                    <li><a href="https://dictionary.cambridge.org/freesearch.html">Search Widgets</a></li>
+                                    <li><a href="https://dictionary.cambridge.org/license.html">License Data</a></li>
+                                </ul>
+                            </div>
+                        </li>
+                        <li class="cfnl hfl-s lp-s_r-20 lp-s_l-20 lbb lb-ch lbb0-s">
+                            <div class="tc-w fs18 hax hdn-s">
+                                <a class="pr hdb fs12 tcu lp-15 lpt-5 lpb-5">
+                                    About
+                                </a>
+                            </div>
+                            <div class="lpl-15 lp-s_l-0">
+                                <ul class="fs14">
+                                    <li class="hdn hdb-s tc-w lpb-5"><a href="https://dictionary.cambridge.org/about.html"
+                                            class="fs12 tcu">About</a></li>
+                                    <li class="hdn-s"><a href="https://dictionary.cambridge.org/about.html">About</a></li>
+                                    <li><a href="http://www.cambridge.org/policy/accessibility/" target="_blank"
+                                            rel="noopener">Accessibility</a></li>
+                                    <li><a href="http://www.cambridge.org/us/cambridgeenglish" target="_blank"
+                                            rel="noopener">Cambridge English</a></li>
+                                    <li><a href="http://www.cambridge.org/" target="_blank" rel="noopener">Cambridge
+                                            University Press</a></li>
+                                    <li><a href="http://www.cambridge.org/about-us/legal-notices/privacy-notice"
+                                            target="_blank" rel="noopener">Cookies and Privacy</a></li>
+                                    <li><a href="http://www.cambridge.org/elt/corpus/" target="_blank"
+                                            rel="noopener">Corpus</a></li>
+                                    <li><a href="http://www.cambridge.org/about-us/terms-use/" target="_blank"
+                                            rel="noopener">Terms of Use</a></li>
+                                </ul>
+                            </div>
+                        </li>
+                    </ul>
+                </nav>
+            </div>
+
+            <div class="cfd lpb-20 hdn-xs hdb-s hfr-s">
+                <div class="hcb htc hfr-s hcl-s fs12 lpb-20 lpt-20 lp-xs_t-10 lp-s_t-15">
+                    <a class="hdib s s-logo-footer" href="http://www.cambridge.org/" title="Cambridge University Press"
+                        rel="external"></a>
+                    <p>© Cambridge University Press 2019</p>
+                </div>
+            </div>
+        </div>
+    </footer>
+</body>
+
+</html>
